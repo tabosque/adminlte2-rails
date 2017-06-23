@@ -50,7 +50,7 @@ By default, there's no plugin installed. However, I've created a generator to he
   - [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker) (daterangepicker)
   - [Color Picker](https://github.com/mjolnic/bootstrap-colorpicker/) (colorpicker)
   - [Date Picker](https://github.com/eternicode/bootstrap-datepicker) (datepicker)
-  - [slimScroll](https://github.com/rochal/jQuery-slimScroll) (slimScroll)
+  - [slimScroll](https://github.com/rochal/jQuery-slimScroll) (slimscroll)
   - [iCheck](https://github.com/fronteed/iCheck) (icheck)
   - [Toastr](https://github.com/CodeSeven/toastr) (toastr)
 
